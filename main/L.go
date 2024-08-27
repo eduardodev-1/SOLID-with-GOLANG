@@ -1,3 +1,4 @@
+//Sem usar (Liskov Substitution Principle - LSP)
 // package main
 //
 // import "fmt"
@@ -16,6 +17,8 @@
 //		ostrich := Ostrich{}
 //		ostrich.Fly() // Ostriches can't fly, this violates LSP
 //	}
+
+// Usando (Liskov Substitution Principle - LSP)
 package main
 
 import "fmt"
